@@ -14,7 +14,7 @@
 
 ## 🚀 About Us
 
-코알라는 전북대학교 컴퓨터인공지능학부의 개발 동아리입니다. 2018년부터 시작하여 다양한 개발 활동을 진행하고 있습니다.
+코알라는 전북대학교 컴퓨터인공지능학부의 개발 동아리입니다. 2018년부터 다양한 개발 활동을 진행하고 있습니다.
 
 ## 🛠️ Tech Stack
 
@@ -36,24 +36,6 @@
   <img src="https://img.shields.io/badge/Contributors-10+-orange?style=for-the-badge" />
 </div>
 
-## 🏆 Awards & Achievements
-
-| Year | Competition | Award |
-|------|------------|-------|
-| 2024 | 대회이름1 | 🥇 최우수상 |
-| 2023 | 대회이름2 | 🥈 우수상 |
-| 2023 | 대회이름3 | 🏆 참가상 |
-
-## 🤝 Contributing
-
-프로젝트에 기여하고 싶으시다면 아래의 방법을 따라주세요.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📫 Contact Us
 
 - **Website**: [coala.jbnu.ac.kr](http://coala.jbnu.ac.kr)
@@ -64,6 +46,6 @@
 
 <div align="center">
   
-### 💻 Happy Coding! 💻
+### 💻 Coala 💻
   
 </div>
