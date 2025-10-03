@@ -42,6 +42,47 @@
 - **Email**: coala.jbnu@gmail.com
 - **Location**: 전북대학교 컴퓨터인공지능학부
 
+## 🔨 작업 방식(브랜치 활용 이슈트래킹)
+### 1. 이슈 생성 (GitHub에서)
+>   예: Issue #15 "사용자 로그인 API 구현"
+
+### 2. 최신 코드로 업데이트
+```bash
+git checkout main
+git pull origin main
+```
+
+### 3. 이슈 기반 브랜치 생성
+```bash
+git checkout -b feature/15-login-api
+# 또는
+git checkout -b issue/15
+```
+
+### 4. 작업 및 커밋
+```bash
+git add .
+git commit -m "feat: 로그인 API 구현 #15번 이슈"
+```
+
+### 5. 푸시 및 PR
+```bash
+git push origin feature/15-login-api
+```
+
+### 6. GitHub에서 PR 생성
+>    - 이슈 번호 연결
+>    - 리뷰어 지정
+
+### 7. 리뷰 후 머지(템플릿 선택 필요)
+
+### 8. 브랜치 정리
+```bash
+git checkout main
+git pull origin main
+git branch -d feature/15-login-api
+```
+
 ---
 
 <div align="center">
