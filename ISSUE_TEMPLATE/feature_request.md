@@ -1,7 +1,7 @@
 ---
 name: "Feature Request"
 about: "새로운 기능이나 개선 아이디어를 제안할 때 사용해 주세요."
-title: "제목"
+title: "[IDEA] 제목"
 labels: "enhancement, feature"
 assignees: '작성자 이름'
 ---
